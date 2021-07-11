@@ -1,0 +1,13 @@
+D:\Projetos\EndpointsManager\EndpointsManager\obj\Debug\netcoreapp3.1\EndpointsManager.AssemblyInfoInputs.cache
+D:\Projetos\EndpointsManager\EndpointsManager\obj\Debug\netcoreapp3.1\EndpointsManager.AssemblyInfo.cs
+D:\Projetos\EndpointsManager\EndpointsManager\obj\Debug\netcoreapp3.1\EndpointsManager.csproj.CoreCompileInputs.cache
+D:\Projetos\EndpointsManager\EndpointsManager\bin\Debug\netcoreapp3.1\EndpointsManager.exe
+D:\Projetos\EndpointsManager\EndpointsManager\bin\Debug\netcoreapp3.1\EndpointsManager.deps.json
+D:\Projetos\EndpointsManager\EndpointsManager\bin\Debug\netcoreapp3.1\EndpointsManager.runtimeconfig.json
+D:\Projetos\EndpointsManager\EndpointsManager\bin\Debug\netcoreapp3.1\EndpointsManager.runtimeconfig.dev.json
+D:\Projetos\EndpointsManager\EndpointsManager\bin\Debug\netcoreapp3.1\EndpointsManager.dll
+D:\Projetos\EndpointsManager\EndpointsManager\bin\Debug\netcoreapp3.1\EndpointsManager.pdb
+D:\Projetos\EndpointsManager\EndpointsManager\obj\Debug\netcoreapp3.1\EndpointsManager.dll
+D:\Projetos\EndpointsManager\EndpointsManager\obj\Debug\netcoreapp3.1\EndpointsManager.pdb
+D:\Projetos\EndpointsManager\EndpointsManager\obj\Debug\netcoreapp3.1\EndpointsManager.genruntimeconfig.cache
+D:\Projetos\EndpointsManager\EndpointsManager\obj\Debug\netcoreapp3.1\EndpointsManager.csprojAssemblyReference.cache
